@@ -1,0 +1,33 @@
+<html>
+    <body>
+        <header>
+            <link rel="stylesheet" href="style.css"/>
+           <img src="https://w7.pngwing.com/pngs/847/665/png-transparent-pet-sitting-pet-shop-cairn-terrier-dog-walking-small-animals-animals-pet-dog-breed.png"/>
+            <a href="#pets">тваринки</a>
+            <a href="#price">ціна</a>
+            <a href="#zoo">зоо магазин </a>
+        </header>
+        <main>
+            <h1>тваринки</h1>
+            <h2>КОТЕНОК </h2>
+            <p>рудий 790грн, шотланець вислоухій 800грн, сиамскій 1000грн</p>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjyFa_3StsvqKR-95fnTeO8KKzTTx1Zr2VcQ&s" />
+            <img src="https://meowclub.by/images/post/2019/October/5d9322b7c3085/skolko-stoit-shotlandskij-kotenok.jpg"/>
+            <img src="https://petsi.net/images/catphotos/Siamskiy%20kotenok.jpg"/>
+            <h4>ЦУЦЕННЯ </h4>
+            <p>джек расел 7200грн лабрадор 1200грн кокер паниель 8000грн </p>
+            <img src="https://csvm.com.ua/modules/pages/upload/images/candy1(3).jpg" />
+            <img src="https://fotkiflo.ru/wp-content/uploads/labrador-sobaka-rost-1.webp"/>
+            <img src="https://img.freepik.com/premium-photo/english-cocker-spaniel-puppy_191971-152.jpg"/>
+            <h6>КРОЛИК </h6>
+            <p>чорний декоротивний  200грн рудий декоротивний 230грн </p>
+            <img src="https://petplays.com.ua/wp-content/uploads/2024/01/krolik-karlikovyj-780x470.jpg"/>
+            <img src="https://mixnews.lv/wp-content/uploads/2023/05/22/2023-05-22-mixnews-1621598576_13-oir_mobi-p-malenkii-chernii-krolik-zhivotnie-krasivo-13.jpg"/>
+         <footer>
+            <p>Контакти:
+            Адреса: м.Дніпро, вул.шевченка,43Тел.:0501240996</p>
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png"/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_dbOUeCrOBe-mkfGD-fEjQNECJrkromWTYg&s"/>
+        </footer>
+    </body>
+</html>   
